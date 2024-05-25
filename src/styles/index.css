@@ -1,0 +1,9 @@
+body{
+    background-image:url("../../public/images/women_UI_developer.jpg");
+    background-size: cover;
+}
+.shade{
+    background-color:rgba(0,0,0,0.7);
+    height: 100vh;
+    margin-top: -25px;
+}
